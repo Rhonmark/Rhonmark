@@ -1,4 +1,4 @@
-# Hi there! 👋 - I'm [@Rhonmark](https://github.com/Rhonmark), a college student with a passion for exploring the realms of front-end and back-end development. I'm currently navigating the exciting worlds of JavaScript for dynamic web interfaces and Java for server-side possibilities.
+# Hi there! 👋 I'm [@Rhonmark](https://github.com/Rhonmark), a college student with a passion for exploring the realms of front-end and back-end development. I'm currently navigating the exciting worlds of JavaScript for dynamic web interfaces and Java for server-side possibilities.
 
 ## 🌱 I'm actively enhancing my skills in JavaScript and Java.
 
